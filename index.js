@@ -23,6 +23,7 @@ function johnLennonFacts(facts) {
     excitingFacts.push(`${facts[i]}!!!`);
     i++;
   }
+  return excitingFacts;
 }
 
 function iLoveTheBeatles(n) {
